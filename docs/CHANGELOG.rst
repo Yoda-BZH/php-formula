@@ -2,6 +2,86 @@
 Changelog
 =========
 
+`1.3.5 <https://github.com/saltstack-formulas/php-formula/compare/v1.3.4...v1.3.5>`_ (2021-01-14)
+-----------------------------------------------------------------------------------------------------
+
+Bug Fixes
+^^^^^^^^^
+
+
+* **_mapdata:** ensure map data is directly under ``values`` (\ `579a613 <https://github.com/saltstack-formulas/php-formula/commit/579a61371a59db75971ecd6e0526125e7388198d>`_\ )
+
+Tests
+^^^^^
+
+
+* **_mapdata:** update for ``_mapdata/init.sls`` change (\ `b30f514 <https://github.com/saltstack-formulas/php-formula/commit/b30f5146d0dcf546d6ce26dcb9eafbc462a00fe0>`_\ )
+
+`1.3.4 <https://github.com/saltstack-formulas/php-formula/compare/v1.3.3...v1.3.4>`_ (2020-12-23)
+-----------------------------------------------------------------------------------------------------
+
+Code Refactoring
+^^^^^^^^^^^^^^^^
+
+
+* **map:** use top-level ``values:`` key in ``map.jinja`` dumps (\ `46ad65e <https://github.com/saltstack-formulas/php-formula/commit/46ad65e39eff11eba8bd8dfbfb0a0b52e4e79cfb>`_\ )
+
+Continuous Integration
+^^^^^^^^^^^^^^^^^^^^^^
+
+
+* **pre-commit:** enable ``rubocop`` linter after fix (\ `71dbf34 <https://github.com/saltstack-formulas/php-formula/commit/71dbf345d6a5d1701c6012277ae8215d2f7c1dc5>`_\ )
+
+`1.3.3 <https://github.com/saltstack-formulas/php-formula/compare/v1.3.2...v1.3.3>`_ (2020-12-22)
+-----------------------------------------------------------------------------------------------------
+
+Continuous Integration
+^^^^^^^^^^^^^^^^^^^^^^
+
+
+* **commitlint:** ensure ``upstream/master`` uses main repo URL [skip ci] (\ `6ea8950 <https://github.com/saltstack-formulas/php-formula/commit/6ea8950307db990b93f6e92dc19108c392a11bea>`_\ )
+* **gitlab-ci:** add ``rubocop`` linter (with ``allow_failure``\ ) [skip ci] (\ `992e934 <https://github.com/saltstack-formulas/php-formula/commit/992e9348c71ff02ada8443751c8423eb7eb83576>`_\ )
+
+Tests
+^^^^^
+
+
+* fix rubocop violations (\ `1a4d208 <https://github.com/saltstack-formulas/php-formula/commit/1a4d20877ce9ff7e5c09ba38ff4ea4b2502e0665>`_\ )
+* **_mapdata:** generate verification files (\ `f88fdf7 <https://github.com/saltstack-formulas/php-formula/commit/f88fdf784ab67ff5083f2e06ee6f5f5aa90b42fb>`_\ )
+* **map:** verify ``map.jinja`` dump using ``_mapdata`` state (\ `e9591db <https://github.com/saltstack-formulas/php-formula/commit/e9591db3551073ad9b7a747b848702dc4f75a22c>`_\ )
+
+`1.3.2 <https://github.com/saltstack-formulas/php-formula/compare/v1.3.1...v1.3.2>`_ (2020-12-16)
+-----------------------------------------------------------------------------------------------------
+
+Continuous Integration
+^^^^^^^^^^^^^^^^^^^^^^
+
+
+* **gemfile.lock:** add to repo with updated ``Gemfile`` [skip ci] (\ `8720cc1 <https://github.com/saltstack-formulas/php-formula/commit/8720cc1708d4b24e532290e61da8aea8a593a8d4>`_\ )
+* **gitlab-ci:** use GitLab CI as Travis CI replacement (\ `15ed749 <https://github.com/saltstack-formulas/php-formula/commit/15ed749de43b1a24b4f86a71cf9272a46b71042e>`_\ )
+* **kitchen:** use ``saltimages`` Docker Hub where available [skip ci] (\ `4cd9a3a <https://github.com/saltstack-formulas/php-formula/commit/4cd9a3a2137f02e1e9234512959491d421cb1e24>`_\ )
+* **kitchen+travis:** remove ``master-py2-arch-base-latest`` [skip ci] (\ `8dd9c54 <https://github.com/saltstack-formulas/php-formula/commit/8dd9c545dba022c06778c1b9a802bb40b9101c66>`_\ )
+* **pre-commit:** add to formula [skip ci] (\ `5d71e0b <https://github.com/saltstack-formulas/php-formula/commit/5d71e0b24e376393d89b9c6d0439de1de4ef1b0d>`_\ )
+* **pre-commit:** enable/disable ``rstcheck`` as relevant [skip ci] (\ `7f73dbb <https://github.com/saltstack-formulas/php-formula/commit/7f73dbbf31dc8a6208c73ec583a3bed7161ae04c>`_\ )
+* **pre-commit:** finalise ``rstcheck`` configuration [skip ci] (\ `ab6338e <https://github.com/saltstack-formulas/php-formula/commit/ab6338e6d49c0882e856a27db12738efa0fe2abf>`_\ )
+* **travis:** add notifications => zulip [skip ci] (\ `b64b1c2 <https://github.com/saltstack-formulas/php-formula/commit/b64b1c2b08a2ac853f40d7c0d9d7991a92396f74>`_\ )
+* **workflows/commitlint:** add to repo [skip ci] (\ `b30a6bd <https://github.com/saltstack-formulas/php-formula/commit/b30a6bd8a70c2e0a5ef32382f08f475d95fdcf1a>`_\ )
+
+Styles
+^^^^^^
+
+
+* **libtofs.jinja:** use Black-inspired Jinja formatting [skip ci] (\ `1def34c <https://github.com/saltstack-formulas/php-formula/commit/1def34c36847174a0fbfad6da679dcc2c4df5fcb>`_\ )
+
+`1.3.1 <https://github.com/saltstack-formulas/php-formula/compare/v1.3.0...v1.3.1>`_ (2020-04-20)
+-----------------------------------------------------------------------------------------------------
+
+Documentation
+^^^^^^^^^^^^^
+
+
+* add example to use a specific php version when using multiple ones (\ `53068f7 <https://github.com/saltstack-formulas/php-formula/commit/53068f73b0bc0e40ce80fea4eac1e8fb0f159808>`_\ )
+
 `1.3.0 <https://github.com/saltstack-formulas/php-formula/compare/v1.2.3...v1.3.0>`_ (2020-02-27)
 -----------------------------------------------------------------------------------------------------
 

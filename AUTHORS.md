@@ -4,7 +4,7 @@ This list is sorted by the number of commits per contributor in _descending_ ord
 
 Avatar|Contributor|Contributions
 :-:|---|:-:
-<img class='float-left rounded-1' src='https://avatars2.githubusercontent.com/u/10231489?v=4' width='36' height='36' alt='@myii'>|[@myii](https://github.com/myii)|68
+<img class='float-left rounded-1' src='https://avatars2.githubusercontent.com/u/10231489?v=4' width='36' height='36' alt='@myii'>|[@myii](https://github.com/myii)|101
 <img class='float-left rounded-1' src='https://avatars2.githubusercontent.com/u/1396878?v=4' width='36' height='36' alt='@gravyboat'>|[@gravyboat](https://github.com/gravyboat)|52
 <img class='float-left rounded-1' src='https://avatars0.githubusercontent.com/u/1800660?v=4' width='36' height='36' alt='@aboe76'>|[@aboe76](https://github.com/aboe76)|48
 <img class='float-left rounded-1' src='https://avatars0.githubusercontent.com/u/1920805?v=4' width='36' height='36' alt='@alxwr'>|[@alxwr](https://github.com/alxwr)|31
@@ -12,7 +12,7 @@ Avatar|Contributor|Contributions
 <img class='float-left rounded-1' src='https://avatars0.githubusercontent.com/u/3374962?v=4' width='36' height='36' alt='@nmadhok'>|[@nmadhok](https://github.com/nmadhok)|14
 <img class='float-left rounded-1' src='https://avatars1.githubusercontent.com/u/1184479?v=4' width='36' height='36' alt='@cheuschober'>|[@cheuschober](https://github.com/cheuschober)|12
 <img class='float-left rounded-1' src='https://avatars1.githubusercontent.com/u/117961?v=4' width='36' height='36' alt='@babilen5'>|[@babilen5](https://github.com/babilen5)|11
-<img class='float-left rounded-1' src='https://avatars1.githubusercontent.com/u/10924313?v=4' width='36' height='36' alt='@kurt---'>|[@kurt---](https://github.com/kurt---)|10
+<img class='float-left rounded-1' src='https://avatars1.githubusercontent.com/u/10924313?v=4' width='36' height='36' alt='@Kurt108'>|[@Kurt108](https://github.com/Kurt108)|8
 <img class='float-left rounded-1' src='https://avatars2.githubusercontent.com/u/242396?v=4' width='36' height='36' alt='@javierbertoli'>|[@javierbertoli](https://github.com/javierbertoli)|7
 <img class='float-left rounded-1' src='https://avatars2.githubusercontent.com/u/91293?v=4' width='36' height='36' alt='@whiteinge'>|[@whiteinge](https://github.com/whiteinge)|7
 <img class='float-left rounded-1' src='https://avatars2.githubusercontent.com/u/1079875?v=4' width='36' height='36' alt='@bogdanr'>|[@bogdanr](https://github.com/bogdanr)|7
@@ -34,6 +34,7 @@ Avatar|Contributor|Contributions
 <img class='float-left rounded-1' src='https://avatars2.githubusercontent.com/u/3768412?v=4' width='36' height='36' alt='@stp-ip'>|[@stp-ip](https://github.com/stp-ip)|3
 <img class='float-left rounded-1' src='https://avatars1.githubusercontent.com/u/500703?v=4' width='36' height='36' alt='@retrry'>|[@retrry](https://github.com/retrry)|3
 <img class='float-left rounded-1' src='https://avatars3.githubusercontent.com/u/3119969?v=4' width='36' height='36' alt='@genuss'>|[@genuss](https://github.com/genuss)|3
+<img class='float-left rounded-1' src='https://avatars2.githubusercontent.com/u/4195158?v=4' width='36' height='36' alt='@dafyddj'>|[@dafyddj](https://github.com/dafyddj)|2
 <img class='float-left rounded-1' src='https://avatars0.githubusercontent.com/u/94157?v=4' width='36' height='36' alt='@imran1008'>|[@imran1008](https://github.com/imran1008)|2
 <img class='float-left rounded-1' src='https://avatars3.githubusercontent.com/u/16899663?v=4' width='36' height='36' alt='@Mario-F'>|[@Mario-F](https://github.com/Mario-F)|2
 <img class='float-left rounded-1' src='https://avatars1.githubusercontent.com/u/533172?v=4' width='36' height='36' alt='@roock'>|[@roock](https://github.com/roock)|2
@@ -50,6 +51,7 @@ Avatar|Contributor|Contributions
 <img class='float-left rounded-1' src='https://avatars1.githubusercontent.com/u/3309784?v=4' width='36' height='36' alt='@aidanharris'>|[@aidanharris](https://github.com/aidanharris)|1
 <img class='float-left rounded-1' src='https://avatars0.githubusercontent.com/u/7353491?v=4' width='36' height='36' alt='@sarcastic-coder'>|[@sarcastic-coder](https://github.com/sarcastic-coder)|1
 <img class='float-left rounded-1' src='https://avatars0.githubusercontent.com/u/4754654?v=4' width='36' height='36' alt='@alinefr'>|[@alinefr](https://github.com/alinefr)|1
+<img class='float-left rounded-1' src='https://avatars0.githubusercontent.com/u/1233212?v=4' width='36' height='36' alt='@baby-gnu'>|[@baby-gnu](https://github.com/baby-gnu)|1
 <img class='float-left rounded-1' src='https://avatars2.githubusercontent.com/u/378158?v=4' width='36' height='36' alt='@dseira'>|[@dseira](https://github.com/dseira)|1
 <img class='float-left rounded-1' src='https://avatars3.githubusercontent.com/u/8737019?v=4' width='36' height='36' alt='@johnccfm'>|[@johnccfm](https://github.com/johnccfm)|1
 <img class='float-left rounded-1' src='https://avatars3.githubusercontent.com/u/5306980?v=4' width='36' height='36' alt='@johnkeates'>|[@johnkeates](https://github.com/johnkeates)|1
@@ -59,10 +61,11 @@ Avatar|Contributor|Contributions
 <img class='float-left rounded-1' src='https://avatars3.githubusercontent.com/u/387511?v=4' width='36' height='36' alt='@philpep'>|[@philpep](https://github.com/philpep)|1
 <img class='float-left rounded-1' src='https://avatars2.githubusercontent.com/u/327943?v=4' width='36' height='36' alt='@Cottser'>|[@Cottser](https://github.com/Cottser)|1
 <img class='float-left rounded-1' src='https://avatars1.githubusercontent.com/u/131665?v=4' width='36' height='36' alt='@iamseth'>|[@iamseth](https://github.com/iamseth)|1
+<img class='float-left rounded-1' src='https://avatars0.githubusercontent.com/u/751889?v=4' width='36' height='36' alt='@Yoda-BZH'>|[@Yoda-BZH](https://github.com/Yoda-BZH)|1
 <img class='float-left rounded-1' src='https://avatars3.githubusercontent.com/u/1366252?v=4' width='36' height='36' alt='@zls'>|[@zls](https://github.com/zls)|1
 <img class='float-left rounded-1' src='https://avatars2.githubusercontent.com/u/8792243?v=4' width='36' height='36' alt='@sc250024'>|[@sc250024](https://github.com/sc250024)|1
 <img class='float-left rounded-1' src='https://avatars0.githubusercontent.com/u/10833722?v=4' width='36' height='36' alt='@sylvainfaivre'>|[@sylvainfaivre](https://github.com/sylvainfaivre)|1
 
 ---
 
-Auto-generated by a [forked version](https://github.com/myii/maintainer) of [gaocegege/maintainer](https://github.com/gaocegege/maintainer) on 2020-02-27.
+Auto-generated by a [forked version](https://github.com/myii/maintainer) of [gaocegege/maintainer](https://github.com/gaocegege/maintainer) on 2021-01-14.
